@@ -1,7 +1,6 @@
-### URL SHORTENER
+### ShrinkIT
 
-Tired of sending those long urls to your friends? <br>
-Try this! A custom url shortener service built with node.js
+A custom url shortener service built with node.js
 
 ## Dependencies
 
